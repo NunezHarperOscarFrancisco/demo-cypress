@@ -9,8 +9,8 @@ Demo de automatización en cypress de la pagina de arkus interview, consta de tr
 2. en el direcotrio base del repositorio corre el siguiente comando: ```npm ci```
 
 ### Uso
-Para correrlo en modo grafico utiliza : ```.\node_modules\.bin\cypress open```
-Para correrlo en modo automático usa : ```.\node_modules\.bin\cypress run```
+* Para correrlo en modo grafico utiliza : ```.\node_modules\.bin\cypress open```
+* Para correrlo en modo automático usa : ```.\node_modules\.bin\cypress run```
 
 **NOTAS:** 
 - La pagina web de arkus interview se esta tomando como http://localhost:8080 si esta alojada en otra dirección se ocupa cambiar la linea de cy.visit en cada prueba por el url correspondiente.
