@@ -1,0 +1,23 @@
+{
+  "name": "cypress-demo-arkusinteview",
+  "version": "0.0.1",
+  "description": "Demo de automatización de la página web de arkus interview.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NunezHarperOscarFrancisco/demo-cypress.git"
+  },
+  "author": "Núñez Harper Oscar Francisco",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/NunezHarperOscarFrancisco/demo-cypress/issues"
+  },
+  "homepage": "https://github.com/NunezHarperOscarFrancisco/demo-cypress#readme"
+}
